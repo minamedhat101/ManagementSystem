@@ -1,0 +1,23 @@
+D:\UniversalManagmentSystem\UniversalManagmentSystem\bin\Debug\UniversalManagmentSystem.exe.config
+D:\UniversalManagmentSystem\UniversalManagmentSystem\bin\Debug\UniversalManagmentSystem.exe
+D:\UniversalManagmentSystem\UniversalManagmentSystem\bin\Debug\UniversalManagmentSystem.pdb
+D:\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.csprojResolveAssemblyReference.cache
+D:\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.UMS.resources
+D:\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.Properties.Resources.resources
+D:\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.csproj.GenerateResource.Cache
+D:\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.exe
+D:\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.pdb
+D:\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.steben.resources
+D:\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.stebn.resources
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\bin\Debug\UniversalManagmentSystem.exe.config
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\bin\Debug\UniversalManagmentSystem.exe
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\bin\Debug\UniversalManagmentSystem.pdb
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.UMS.resources
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.steben.resources
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.stebn.resources
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.exe
+C:\Users\Lenovo\Desktop\تسليم database\UniversalManagmentSystem\UniversalManagmentSystem\obj\Debug\UniversalManagmentSystem.pdb
